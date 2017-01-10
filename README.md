@@ -1,5 +1,3 @@
----
-
 ## Table of Contents
 
 - [About Google](#about-google)
@@ -113,9 +111,6 @@
 - [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
-
----
-
 
 ## About Google
 
